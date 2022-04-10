@@ -1,0 +1,23 @@
+$white: #ffffff;
+
+$theme-colors: (
+    "light":      #d4f7ee,
+    "dark":       #13003d,
+    "primary":    #29375d,
+    "secondary":  #596ed9,
+    "info":       #69a0d5,
+    "accent1":    #534c49,
+    "accent2":    #936443,
+    "accent3":    #1b36e8,
+    "success":    #0f9b59,
+    "warning":    #dfc811,
+    "danger":     #ed1906,
+);
+
+
+
+$breakpoints: (
+  "small": 480px,
+  "medium": 768px,
+  "large": 1280px,
+);
